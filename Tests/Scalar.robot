@@ -1,7 +1,7 @@
 *** Settings ***
 
 *** Variables ***
-${MY_VARIABLE} =  Hello there
+${MY_VARIABLE} =  Hello there we can use the equal sign but is not mandatory
 
 *** Test Cases ***
 Set a variable in the test case
